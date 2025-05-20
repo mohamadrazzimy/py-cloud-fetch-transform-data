@@ -1,0 +1,5 @@
+pandas
+pydantic
+duckdb
+pyarrow
+fastparquet
